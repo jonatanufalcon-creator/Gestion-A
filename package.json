@@ -1,0 +1,1 @@
+{\n  "name": "gestion-a",\n  "private": true,\n  "workspaces": [\n    "apps/frontend",\n    "apps/backend"\n  ],\n  "version": "1.0.0"\n}
